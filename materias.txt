@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> materias </title>
+<meta charset="uts-8">
+</head>
+<body>
+<p> Materias cursadas </p>
+<br>
+<p> listas con elementos desordenados <p/>
+<ul>
+<li> matematicas </li>
+<li> historia </li>
+<li> tic´s </li>
+<li> ciencias de la salud </li>
+<li> diseño </li>
+<li> filosofia </li>
+<li> calculo integral </li>
+<li> fisica II </li>
+</ul>
+</body>
+</html>
